@@ -8,10 +8,10 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Created the website you're currently at",
+    description: "Created the website youre currently at",
     image: "/images/derparooni.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/auresoft/personal-websiteIS",
+    gitUrl: "personal-website-tix1.vercel.app",
     previewUrl: "/",
   },
  
