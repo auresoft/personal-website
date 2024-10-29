@@ -11,7 +11,7 @@ const projectsData = [
     description: "Created the website youre currently at",
     image: "/images/derparooni.png",
     tag: ["All", "Web"],
-    gitUrl: "personal-website-tix1.vercel.app",
+    gitUrl: "https://github.com/auresoft/personal-website.git",
     previewUrl: "/",
   },
  
