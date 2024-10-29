@@ -58,7 +58,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am an aspiring student with an interest of many topics, from machine learning, to overall technology. 
-            Different skills i've acquired all throughout living as to where I can be a reliable confidant.
+            Different skills ive acquired all throughout living as to where I can be a reliable confidant.
 
             My enthusiasm for technology drives me to continue to learn something new every day, and I have enjoyed
             learning different topics and also tutoring others if they need a shoulder to lean on. 
